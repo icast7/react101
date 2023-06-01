@@ -1,3 +1,6 @@
+> App created following tutorial [here](https://radixweb.com/blog/steps-to-build-react-project-with-create-react-app)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
