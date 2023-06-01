@@ -1,5 +1,6 @@
 import {ReactComponent as Logo} from './logo.svg'
 import './App.css';
+import Posts from './components/Posts'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         <Logo style={{height: 50}}/>
         <h1>Hello Radixweb!</h1>
       </header>
+      <Posts />
     </div>
   );
 }
